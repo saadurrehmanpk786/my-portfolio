@@ -877,8 +877,8 @@ export default function Portfolio() {
           </Reveal>
           <Reveal delay={120}>
             <div className="about-card">
-              <p>I'm a detail-oriented SQA engineer and frontend React developer. My day job is manual testing, test case design, and defect tracking catching what shouldn't ship. My side of the desk is React, where I build the responsive interfaces that then get tested by people like me.</p>
-              <p>I've spent the last several months moving between QA and development roles at DataViz, Airblue, and SIPSAP Optimization, picking up API testing, regression workflows, and agile collaboration along the way. I graduated with a BS in Computer Science from Iqra University in July 2025.</p>
+              <p>I’m a Frontend React Developer and SQA Engineer focused on building responsive, user-friendly, and reliable web applications. My primary focus is frontend development, where I work with React.js and JavaScript to create reusable components, responsive interfaces, and functional user experiences. My SQA background complements my development work by helping me build applications with quality, usability, and reliability in mind.</p>
+              <p>I’ve gained professional experience across frontend development and software quality assurance at DataViz, Airblue, and SIPSAP Optimization. My experience includes React development, API integration, manual testing, test case design, regression testing, API testing with Postman, defect tracking, and Agile collaboration.</p>
               <div className="meta-row">
                 <Badge tone="ink">📍 Islamabad, PK</Badge>
                 <Badge tone="green">🎓 BS Computer Science</Badge>
