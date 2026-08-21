@@ -291,10 +291,11 @@ const EXPERIENCE = [
     time: "Jul 2026 — Present",
     status: "RUNNING",
     bullets: [
-      "Test the IvyCMS web app end to end: functional, UI, validation, smoke, and regression passes.",
-      "Design and run test cases across multiple modules, then log and track every defect found.",
-      "Run API tests in Postman, checking requests, responses, and CRUD, search, and filter behavior.",
-      "Pair with developers to confirm fixes and sign off new deployments.",
+            "Develop and maintain responsive React.js frontend components and user interfaces for IvyCMS modules.",
+      "Implement frontend features using React.js, JavaScript, reusable components, and API integration.",
+      "Improve existing UI screens and build new React-based features based on project requirements.",
+      "Test the IvyCMS web app end to end, covering functional, UI, validation, smoke, and regression testing.",
+      "Run API tests in Postman, validating requests, responses, CRUD operations, search, and filter behavior.",
     ],
   },
   {
@@ -303,7 +304,7 @@ const EXPERIENCE = [
     org: "Airblue — MIS Department",
     time: "Apr 2026 — Jul 2026",
     status: "PASS",
-    bullets: [
+    bullets: [ 
       "Ran manual and functional testing across web applications.",
       "Documented and tracked bugs, then verified fixes with regression passes.",
       "Built responsive interfaces in React.js for internal tools.",
