@@ -876,7 +876,7 @@ export default function Portfolio() {
           </Reveal>
           <Reveal delay={120}>
             <div className="about-card">
-              <p>I'm a detail-oriented SQA engineer and frontend React developer. My day job is manual testing, test case design, and defect tracking — catching what shouldn't ship. My side of the desk is React, where I build the responsive interfaces that then get tested by people like me.</p>
+              <p>I'm a detail-oriented SQA engineer and frontend React developer. My day job is manual testing, test case design, and defect tracking catching what shouldn't ship. My side of the desk is React, where I build the responsive interfaces that then get tested by people like me.</p>
               <p>I've spent the last several months moving between QA and development roles at DataViz, Airblue, and SIPSAP Optimization, picking up API testing, regression workflows, and agile collaboration along the way. I graduated with a BS in Computer Science from Iqra University in July 2025.</p>
               <div className="meta-row">
                 <Badge tone="ink">📍 Islamabad, PK</Badge>
