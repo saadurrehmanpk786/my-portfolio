@@ -286,7 +286,7 @@ function BugTracker() {
 const EXPERIENCE = [
   {
     id: "TC-003.1",
-    role: "SQA Intern",
+    role: "SQA & Front-end Developer Intern",
     org: "SIPSAP Optimization",
     time: "Jul 2026 — Present",
     status: "RUNNING",
